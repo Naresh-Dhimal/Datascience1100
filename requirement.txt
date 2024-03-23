@@ -1,0 +1,10 @@
+numpy
+seaborn
+matplotlib
+requests
+plotly
+pandas
+aiohttp
+statistic
+scipy
+sklearn
